@@ -19,5 +19,5 @@ Generate engaging UGC-style ad scripts using prompt engineering.
 - Microsoft Word
 
 ## Submitted By
-Borra Shravya Reddy
+Borra Shravya Reddy  
 Future Interns Prompt Engineering Internship
